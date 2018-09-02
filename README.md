@@ -8,12 +8,12 @@ Kernel is now available as a native app for Chromebooks!  You can install it [he
 
 [Listing in the Chrome Web Store](http://bit.ly/TL-Kernel-Chrome-App)
 
-![Store Example](img/examples/store_example.png)
+ > ![Store Example](img/examples/store_example.png)
 
 Chrome App Login
 
-![Store Example](img/examples/app_example.png)
+ > ![Store Example](img/examples/app_example.png)
 
 Chrome App Dashboard
 
-![Store Example](img/examples/store_example.png)
+ > ![Store Example](img/examples/store_example.png)
