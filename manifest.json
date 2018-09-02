@@ -1,0 +1,42 @@
+{
+  "name": "Kernel",
+  "description": "The Global Scoreboard for Food Supply",
+  "short_name": "Kernel",
+  "version": "1.0.3",
+  "author": "Greg Allen",
+  "manifest_version": 2,
+  "minimum_chrome_version": "37.0.0.0",
+  "permissions": [
+    "webview",
+    "power",
+    "storage",
+    "videoCapture",
+    "geolocation",
+    "pointerLock",
+    "system.display", {
+      "fileSystem": [
+        "write",
+        "retainEntries", "directory"
+      ]
+    },
+    "accessibilityFeatures.read",
+    "accessibilityFeatures.modify",
+    "http://*.telluslabs.com/",
+    "https://*.telluslabs.com/",
+    "http://*.kernel.telluslabs.com/",
+    "https://*.kernel.telluslabs.com/"
+  ],
+  "app": {
+    "background": {
+      "scripts": ["js/foam.js", "js/cab.js", "config.js", "background_main.js"]
+    }
+  },
+  "kiosk_enabled": true,
+  "default_locale": "en",
+  "icons": {
+    "16": "img/kernel_logo_green_square_16x16.png",
+    "32": "img/kernel_logo_green_square_32x32.png",
+    "48": "img/kernel_logo_green_square_48x48.png",
+    "128": "img/kernel_logo_green_square_128x128.png"
+  }
+}
