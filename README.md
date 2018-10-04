@@ -12,9 +12,7 @@
  >
  > We hope you'll continue to submit feature requests & bug reports, and we'll be watching this repository to make sure that we're available to respond to any questions.
  >
- > For all other inquiries, feel free to chat with us live using the in-product chat tool, or reach out to us by email via kernel-support@telluslabs.com.  As always, we'd love to hear from you!
- >
- > - [The Team at TellusLabs](http://bit.ly/TL-Company)
+ > For all other inquiries, feel free to chat with us live using the in-product chat tool, or reach out to us by email via kernel-support@telluslabs.com.  As always, we'd love to hear from you! - [The TellusLabs Team](http://bit.ly/TL-Company)
 
 # The Kernel Chrome App
 
@@ -24,7 +22,7 @@ Kernel is now available as a native Chromebook app!  If you're using a Chromeboo
 
 ## How do I get Kernel Access?
 
-Great question!  We're always offering free trial access to Kernel (no credit card required), and we'd love to bring you on board!  You can request your trial credentials by [filling out this form](http://bit.ly/TL-Request-Access) on our company homepage.
+Great question!  We're always offering free trial access to Kernel (no credit card required), and we'd love to bring you on board!  You can request your trial credentials by [**filling out this form**](http://bit.ly/TL-Request-Access) on our company homepage.
 
 Once you submit the "Request Access" form, we have an automated process that generates your credentials and sets up your account.  However, there's typically a 4-5 hour delay between when you submit the form and when you receive the credentials email.  If you haven't received your credentials within 24 hours of submitting the Request Access form, please contact us at kernel-support@telluslabs.com and we'll get to the bottom of it.
 
@@ -58,6 +56,8 @@ Kernel Chrome App: Dashboard
 
 ![Store Example](img/examples/store_example.png)
 
-### Questions?
+## Questions?
 
-Please feel free to contact us kernel-support@telluslabs.com.
+What are you waiting for?  Submit your [**trial access request**](http://bit.ly/TL-Request-Access) here to get up and running!
+
+For any questions or feedback, please feel free to contact us kernel-support@telluslabs.com.
