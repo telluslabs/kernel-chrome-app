@@ -1,4 +1,4 @@
- > ### Update on Google's Chrome App Support
+ > ### Update to Google's Support for Chrome Apps
  >
  > Since [Google's decision to retire Chrome apps for Windows, Mac, & Linux users](http://bit.ly/GCB-Retiring-Chrome-Apps), the Kernel Chrome App will now only be available to Chromebook users.  Subsequently, this project has transitioned towards a more passive management state.  In other words, we will continue to monitor this project for feature requests and bugs/errors, however the majority of our time will now be spent actively developing the [core Kernel web platform](http://bit.ly/Kernel-TL).
  >
@@ -11,9 +11,9 @@
  > * While the Kernel Chrome App will continue to function as normal, we will no longer be developing any new ***chromebook-specific*** features for the Kernel Chrome App
  >
  > We hope you'll continue to submit feature requests & bug reports, and we'll be watching this repository to make sure that we're available to respond to any questions.
-
+ >
  > For all other inquiries, feel free to chat with us live using the in-product chat tool, or reach out to us by email via kernel-support@telluslabs.com.  As always, we'd love to hear from you!
-
+ >
  > Sincerely,
  > The TellusLabs Team
 
